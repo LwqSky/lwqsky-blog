@@ -1,2 +1,2 @@
 # lwqsky-blog
-This is my bolg !
+This is my blog !
